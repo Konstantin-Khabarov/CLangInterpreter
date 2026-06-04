@@ -1,0 +1,7 @@
+// potbbcbb
+a=1;
+a=-a;
+print(a);
+/*
+dkgdflkflgkl;df
+*/
